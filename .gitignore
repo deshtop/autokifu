@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+docs/
+input/
+output/
+.Session-autokifu.vim
+Gemfile
+Gemfile.lock
+Guardfile
